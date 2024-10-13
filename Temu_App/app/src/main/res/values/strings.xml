@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Temu_App</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="up_to_90_days">Up to 90 days</string>
+    <string name="free_returns">Free Returns</string>
+    <string name="on_all_orders">On all orders</string>
+    <string name="all_data_is_encrypted">All data is encrypted</string>
+    <string name="free_shipping">Free Shipping</string>
+    <string name="continue_with_email">Continue with Email</string>
+    <string name="continue_with_phone_number">Continue with Phone Number</string>
+    <string name="continue_with_x">Continue with X</string>
+    <string name="trouble_signing_in">Trouble signing in?</string>
+    <string name="by_contuning_you_agree_to_our_terms_of_use_and_privacy_n_policy">By contuning you agree to our terms of use and privacy \n policy</string>
+    <string name="by_continuing_you_agree_to_our_terms_of_use_and_privacy_policy_you_will_receive_an_sms_for_verification_purposes_only_message_and_data_rates_may_apply">By continuing, you agree to our Terms of Use and Privacy Policy. You will receive an SMS for verification purposes only. Message and data rates may apply.</string>
+    <string name="continue_text">Continue</string>
+    <string name="sign_in_or_register_with_your_phone_numnber">Sign in or register with your phone numnber</string>
+    <string name="sign_in_or_register_with_your_phone_number">Sign in or register with your phone number</string>
+    <string name="please_enter_your_email_address">Please enter your email address</string>
+    <string name="by_continuing_you_agree_to_our_terms_of_use_and_privacy_policy">By Continuing, you agree to our Terms of use and Privacy Policy</string>
+</resources>
