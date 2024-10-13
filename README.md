@@ -24,7 +24,4 @@ To get a copy of the project running on your local machine, follow these simple 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/temu-shopping-app.git
-## Screenshots
 
-![Main Screen](link_to_your_screenshot)
-![Sign In Screen](link_to_your_screenshot)
