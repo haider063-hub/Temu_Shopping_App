@@ -30,7 +30,7 @@ To get a copy of the project running on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/haider063-hub/temu-shopping-app.git
+   git clone https://github.com/yourusername/temu-shopping-app.git
    ```
 2. Open the project in **Android Studio**.
 
