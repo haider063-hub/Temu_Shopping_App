@@ -1,7 +1,3 @@
-Here’s an updated version of your **Temu Shopping App** documentation to include the **Navigation Bar**, **Profile Page**, **Settings Page**, and other features:
-
----
-
 # Temu Shopping App
 
 ## Overview
